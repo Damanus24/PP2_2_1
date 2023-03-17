@@ -4,26 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cde7b11-d15d-4665-a316-ae076503ce99" name="Changes" comment="" />
+    <list default="true" id="6cde7b11-d15d-4665-a316-ae076503ce99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PP_2_2_1_spring_hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PP_2_2_1_spring_hibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/spring-hibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/spring_hibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDaoImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/model/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserServiceImp.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2N5wFJ9iTpYzOJvjtBzqveA6ECZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;973519049f1dda9dcc3abb7a7e786282&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/acer/IdeaProjects/PP2_2_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "spring.configuration.checksum": "973519049f1dda9dcc3abb7a7e786282",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hiber.MainApp" />
@@ -53,10 +106,15 @@
       <option name="presentableId" value="Default" />
       <updated>1678967145936</updated>
       <workItem from="1678967148092" duration="74000" />
+      <workItem from="1678967505535" duration="5981000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
