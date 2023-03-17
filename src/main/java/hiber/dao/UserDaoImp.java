@@ -28,8 +28,6 @@ public class UserDaoImp implements UserDao {
         return query.getResultList();
     }
 
-
-
     @Override
     @SuppressWarnings("unchecked")
     public List<User> listCarUsers(String model, int series) {
@@ -37,7 +35,6 @@ public class UserDaoImp implements UserDao {
                 .createQuery("SELECT u FROM User u JOIN u.car c WHERE c.model = :model AND c.series = :series")
                 .setParameter("model", model)
                 .setParameter("series", series);
-//              .createQuery("SELECT u FROM User u JOIN u.car c WHERE c.model = 'ВАЗ' AND c.series = 2114");
         List<User> listCarUsers = query.getResultList();
         return listCarUsers;
     }

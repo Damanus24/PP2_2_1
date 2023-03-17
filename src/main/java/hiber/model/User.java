@@ -1,5 +1,7 @@
 package hiber.model;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 import javax.persistence.*;
 import java.util.Objects;
 
@@ -20,14 +22,11 @@ public class User {
     @Column(name = "email")
     private String email;
 
-//   @Column(name = "car_id")
-//   private String carId;
-
     @OneToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "car_id", referencedColumnName = "id")
     private Car car;
 
-    public User() {
+    public User(Car car) {
     }
 
     public User(String firstName, String lastName, String email) {
