@@ -26,8 +26,7 @@ public class User {
     @JoinColumn(name = "car_id", referencedColumnName = "id")
     private Car car;
 
-    public User(Car car) {
-    }
+    public User() {}
 
     public User(String firstName, String lastName, String email) {
         this.firstName = firstName;
